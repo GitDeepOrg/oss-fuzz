@@ -26,7 +26,7 @@ and found [hundreds](https://bugs.chromium.org/p/chromium/issues/list?can=1&q=la
 In cooperation with the [Core Infrastructure Initiative](https://www.coreinfrastructure.org/), 
 OSS-Fuzz aims to make common open source software more secure and stable by
 combining modern fuzzing techniques and scalable
-distributed execution.
+distributed execution. The best way to eliminate vulnerabilities is to never create them and to stop them before a project ever reaches critical mass. So even if your project is still new, please spend some time thinking about your development process and the [tooling for distributed vigilance](https://www.coreinfrastructure.org/programs/tooling).
 
 At the first stage of the project we use
 [libFuzzer](http://llvm.org/docs/LibFuzzer.html) with
