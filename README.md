@@ -1,6 +1,6 @@
-# OSS-Fuzz - Continuous Fuzzing for Open Source Software
+# WT-Fuzz - Weighted, Intelligently Targeted Fuzzing for Open Source Software
 
-> *Status*: Beta. We are now accepting applications from widely-used open source projects.
+> *Status*: PRE-Beta ... but don't wait. [Google's OSS-FUZZ](https://github.com/google/oss-fuzz) is now accepting applications from widely-used open source projects.
 
 [FAQ](docs/faq.md)
 | [Ideal Fuzzing Integration](docs/ideal_integration.md)
